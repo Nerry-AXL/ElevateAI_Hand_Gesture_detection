@@ -2,3 +2,4 @@ streamlit-webrtc
 opencv-python-headless
 matplotlib
 mediapipe
+tensorflow
